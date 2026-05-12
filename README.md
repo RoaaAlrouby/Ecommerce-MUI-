@@ -13,25 +13,26 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Expanding the ESLint configuration
 MUI Components per Page:
-Navbar
+
+Navbar : 
 `AppBar` | `Toolbar` | `Typography` | `Box` | `Select` | `MenuItem` | `Badge` | `IconButton` | `Button`
 
-Products
+Products : 
 `Box` | `Typography` | `Grid` | `Card` | `CardMedia` | `CardContent` | `CardActions` | `Button` | `CircularProgress`
 
-ProductDetails
+ProductDetails : 
 `Box` | `Typography` | `Button` | `Chip` | `CircularProgress`
 
-Cart
+Cart : 
 `Box` | `Typography` | `Button` | `IconButton` | `Table` | `TableBody` | `TableCell` | `TableContainer` | `TableHead` | `TableRow` | `Paper` | `Card` | `CardContent`
 
-Login
+Login : 
 `Box` | `Typography` | `TextField` | `Button`
 
-Register
+Register : 
 `Box` | `Typography` | `TextField` | `Button`
 
-NotFound
+NotFound : 
 `Box` | `Typography`
 
 
