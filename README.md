@@ -12,6 +12,29 @@ Currently, two official plugins are available:
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
 ## Expanding the ESLint configuration
+MUI Components per Page:
+Navbar
+`AppBar` | `Toolbar` | `Typography` | `Box` | `Select` | `MenuItem` | `Badge` | `IconButton` | `Button`
+
+Products
+`Box` | `Typography` | `Grid` | `Card` | `CardMedia` | `CardContent` | `CardActions` | `Button` | `CircularProgress`
+
+ProductDetails
+`Box` | `Typography` | `Button` | `Chip` | `CircularProgress`
+
+Cart
+`Box` | `Typography` | `Button` | `IconButton` | `Table` | `TableBody` | `TableCell` | `TableContainer` | `TableHead` | `TableRow` | `Paper` | `Card` | `CardContent`
+
+Login
+`Box` | `Typography` | `TextField` | `Button`
+
+Register
+`Box` | `Typography` | `TextField` | `Button`
+
+NotFound
+`Box` | `Typography`
+
+
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d7e753f0-6c55-4d47-9a6f-d07cf32e8303" />
@@ -20,17 +43,3 @@ If you are developing a production application, we recommend using TypeScript wi
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/26b25989-094c-450f-b09a-bcfb427ad960" />
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/081e063f-1bc1-4270-8de1-72bcad2c9e19" />
-Navbar
-AppBar Toolbar Typography Box Select MenuItem Badge IconButton Button
-Products
-Box Typography Grid Card CardMedia CardContent CardActions Button CircularProgress
-ProductDetails
-Box Typography Button Chip CircularProgress
-Cart
-Box Typography Button IconButton Table TableBody TableCell TableContainer TableHead TableRow Paper Card CardContent
-Login
-Box Typography TextField Button
-Register
-Box Typography TextField Button
-NotFound
-Box Typography
